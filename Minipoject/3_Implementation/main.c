@@ -1,4 +1,4 @@
-#inclue<Header.h>
+#include<Header.h>
 #include<stdio.h>
 #define size 100
 #define ksize 30
